@@ -8,7 +8,14 @@
     
    ## Table of Contents
    * [Description](#description)
+   * [Screenshot and Link](#screenshot)
    * [Questions](questions)
+
+
+   ## Screenshot
+   
+   ![image](https://user-images.githubusercontent.com/88916856/159586972-84d245e8-565a-459d-9ae0-93194421f695.png)
+
     
    ## Questions
     
