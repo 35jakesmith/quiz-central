@@ -1,0 +1,19 @@
+.hidden {
+    display: none;
+    visibility: hidden;
+    align-items: center;
+};
+
+.show {
+    display: block;
+    visibility: visible;
+}
+
+body {
+    background-color: aqua;
+    max-width: max-content;
+    margin: auto;
+    margin-top: 375px;
+    font-family: sans-serif;
+    font-size: large;
+}
